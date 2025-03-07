@@ -1,4 +1,4 @@
-This project generates melodies using IIR (Infinite Impulse Response) filters to process the signal. It is designed to take melody and chorus notes, apply filtering, and save the output to a .wav file. The melody is based on the classic "Twinkle Twinkle Little Star" song 🧸✨, but it could easily be adapted for any melody. It was optimized for performance with minimal memory usage 🧠💻.
+This short C project generates melodies using IIR (Infinite Impulse Response) filters to process the signal. It is designed to take melody and chorus notes, apply filtering, and save the output to a .wav file. The melody is based on the classic "Twinkle Twinkle Little Star" song 🧸✨, but it could easily be adapted for any melody. It was optimized for performance with minimal memory usage 🧠💻.
 
 ****************************How It Works 🚀****************************
 Generate Notes 🎵:
