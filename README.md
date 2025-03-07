@@ -63,7 +63,7 @@ After processing the melody with the IIR filter, the result is written to a .wav
 To compile the code:
 
 ```bash
-gcc Lab1_starter_code.c -o starter_out -lsndfile   //make sure you have this.. homebrew for mac!
+gcc Lab1_starter_code.c -o starter_out -lsndfile   //make sure you have this library.. install with homebrew for mac!
 
 ./starter_out  //run the program
 ```
